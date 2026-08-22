@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emrik 👋</h1>
 
 <p align="center">
-Customer Success & Operations at <a href="https://padeliq.io">Padel iQ</a> · Building <a href="https://denira.io">Denira</a> on the side · Padel & CS2 enthusiast
+Customer Success & Operations at <a href="https://padeliq.io">Padel iQ</a> 
 </p>
 
 <p align="center">
