@@ -6,8 +6,6 @@ Customer Success & Operations at <a href="https://padeliq.io">Padel iQ</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emrikrellmar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://denira.io"><img src="https://img.shields.io/badge/Denira-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
 
 ---
 
