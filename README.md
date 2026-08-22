@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Emrik 👋</h1>
 
----
-
 ### 🧰 Tools & Tech
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
