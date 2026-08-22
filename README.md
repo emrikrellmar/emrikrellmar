@@ -15,14 +15,6 @@ Customer Success & Operations at <a href="https://padeliq.io">Padel iQ</a> · Bu
 
 I work at **Padel iQ** — a white-label SaaS booking and club management platform for padel and racket sports clubs (operating as Padel iQ, Racket iQ, and Sportyfriends) across Scandinavia, the Netherlands, and beyond. My day-to-day spans club onboarding, data migrations, support ticket triage, QA testing, and client communication — with a lot of SQL, Jira, and process automation along the way.
 
-On the side, I'm building **[Denira](https://denira.io)**, a booking platform for experience-based tourism businesses, currently working on a consumer-facing marketplace app (React Native / Expo) with multi-tenant discovery and Stripe Connect checkout.
-
-- 🎾 Deep in the padel/racket sports tech world
-- 🛠️ Working on club data migrations, integrations, and internal tooling
-- 📱 Building a mobile marketplace app for Denira
-- ⚽ Playing football for Skäldervikens IF, chasing professional aspirations
-- 🎮 Team manager for Jinx Esport (CS2)
-- 🇸🇪 🇩🇰 🇬🇧 🇳🇱 Fluent in Swedish, Danish, English, and Dutch
 
 ---
 
@@ -36,14 +28,5 @@ On the side, I'm building **[Denira](https://denira.io)**, a booking platform fo
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
 
----
-
-### 📌 Currently
-
-- Scoping and building the Denira marketplace app
-- Running club onboarding & migrations for Padel iQ / Racket iQ / Sportyfriends
-- Exploring ISO 27001 certification pathways for our platform
 
 ---
-
-<p align="center"><i>Know. Act. Grow.</i></p>
