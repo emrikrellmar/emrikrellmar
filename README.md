@@ -1,21 +1,5 @@
 <h1 align="center">Hi, I'm Emrik 👋</h1>
 
-<p align="center">
-Customer Success & Operations at <a href="https://padeliq.io">Padel iQ</a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/emrikrellmar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-### 🚀 About Me
-
-I work at **Padel iQ**, a white-label SaaS booking and club management platform for padel and racket sports clubs. We operate under three brands, Padel iQ, Racket iQ, and Sportyfriends, serving clubs across Scandinavia, the Netherlands, and beyond.
-
-Most of my time goes into onboarding new clubs, running data migrations, triaging support tickets, and testing things before they ship. Along the way I do a fair bit of SQL, live in Jira all day, and try to automate away whatever's repetitive.
-
 ---
 
 ### 🧰 Tools & Tech
