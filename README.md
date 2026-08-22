@@ -11,7 +11,7 @@ Customer Success & Operations at <a href="https://padeliq.io">Padel iQ</a>
 
 ### 🚀 About Me
 
-I work at **Padel iQ** — a white-label SaaS booking and club management platform for padel and racket sports clubs (operating as Padel iQ, Racket iQ, and Sportyfriends) across Scandinavia, the Netherlands, and beyond. My day-to-day spans club onboarding, data migrations, support ticket triage, QA testing, and client communication — with a lot of SQL, Jira, and process automation along the way.
+I work at **Padel iQ** , a white-label SaaS booking and club management platform for padel and racket sports clubs (operating as Padel iQ, Racket iQ, and Sportyfriends) across Scandinavia, the Netherlands, and beyond. My day-to-day spans club onboarding, data migrations, support ticket triage, QA testing, and client communication , with a lot of SQL, Jira, and process automation along the way.
 
 
 ---
